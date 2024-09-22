@@ -1,0 +1,2 @@
+# elixir
+ubuntu terminal
